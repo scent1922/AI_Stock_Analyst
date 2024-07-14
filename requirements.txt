@@ -92,7 +92,7 @@ kiwisolver==1.4.5
 langchain>=0.2.7,<0.3.0
 langchain-community>=0.2.7
 langcodes==3.3.0
-langsmith==0.0.52
+langsmith>=0.1.17,<0.2.0
 layoutparser==0.3.4
 loguru==0.7.2
 lxml==4.9.3
