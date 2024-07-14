@@ -92,7 +92,7 @@ kiwisolver==1.4.5
 langchain>=0.2.7,<0.3.0
 langchain-community>=0.2.7
 langcodes==3.3.0
-langsmith>=0.1.17,<0.2.0
+langsmith
 layoutparser==0.3.4
 loguru==0.7.2
 lxml==4.9.3
@@ -122,7 +122,7 @@ onnxruntime==1.16.0
 openai==0.28.0
 opencv-python==4.8.0.76
 openpyxl==3.1.2
-orjson==3.9.9
+orjson
 overrides==7.4.0
 packaging==23.1
 pandas==2.1.0
