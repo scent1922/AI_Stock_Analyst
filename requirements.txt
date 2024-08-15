@@ -24,7 +24,7 @@ cffi
 chardet
 charset-normalizer
 chroma-hnswlib
-chromadb
+chromadb==0.4.24
 click
 coloredlogs
 comm
@@ -47,7 +47,7 @@ email-validator
 emoji
 et-xmlfile
 executing
-faiss-cpu
+faiss-cpu==1.7.4
 fastapi
 ffmpeg
 ffmpeg-python
